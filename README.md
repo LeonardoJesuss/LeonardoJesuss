@@ -1,10 +1,11 @@
 ### Olá! Me chamo Leonardo de Jesus.
 
-- 🔭 Estou sem emprego no momento.
+- 🔭 Procurando a primeira oportunidade no mercado front-end
 - 🌱 Atualmente estou estudando HTML, CSS e JavaScrpit.
+- 🎓 Estudante na Universidade Estadual do Norte do Paraná.
 - 📫 Contate-me: leonardojesusband@gmail.com
 - 😄 Pronouns: ele/dele.
-- 🎓 Estudante na Universidade Estadual do Norte do Paraná.
+
 
 <div align="center">
   <a href="https://github.com/LeonardoJesuss"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LeonardoJesuss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
