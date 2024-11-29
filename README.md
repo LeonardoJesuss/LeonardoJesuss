@@ -3,7 +3,6 @@
 - 🔭 Procurando a primeira oportunidade no mercado front-end
 - 🌱 Atualmente estou estudando HTML, CSS e JavaScrpit.
 - 🎓 Estudante na Universidade Estadual do Norte do Paraná.
-- 😄 Pronouns: ele/dele.
 
 
 <div align="left">
